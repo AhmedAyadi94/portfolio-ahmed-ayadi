@@ -22,3 +22,8 @@ header .intro h1{ color: #fff; }
 h2.h4{ color:#cdeeff; }
 .embed-responsive iframe{ background: #fff; }
 @media(max-width:991px){ .profile-photo img{ width:120px; height:120px; } }
+
+/* Amélioration visibilité des éléments */
+.lead.text-muted { color: #2ea6ff !important; }
+.list-inline.text-muted strong { color: #2ea6ff !important; }
+.intro .lead { color: #2ea6ff !important; }
