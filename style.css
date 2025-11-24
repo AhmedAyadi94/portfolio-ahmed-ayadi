@@ -27,3 +27,5 @@ h2.h4{ color:#cdeeff; }
 .lead.text-muted { color: #2ea6ff !important; }
 .list-inline.text-muted strong { color: #2ea6ff !important; }
 .intro .lead { color: #2ea6ff !important; }
+#cv .text-muted { color: #2ea6ff !important; }
+.list-unstyled li { color: #e6eef6 !important; }
